@@ -1,1 +1,1 @@
-# Handwritten-digit-prediction_ML_HW1
+# Handwritten-digit-prediction-ML-HW1
